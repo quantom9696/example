@@ -1,6 +1,6 @@
 IP-CIDR,103.65.41.130/32,no-resolve
 IP-CIDR,103.65.41.132/32,no-resolve
 IP-CIDR,103.65.41.137/32,no-resolve
-IP-CIDR6,2a13:8c0::/29,no-resolve,no-resolve
+IP-CIDR6,2a13:8c0::/29,no-resolve
 IP-CIDR6,2a13:1640::/29,no-resolve
 IP-CIDR6,2a13:1740::/29,no-resolve
